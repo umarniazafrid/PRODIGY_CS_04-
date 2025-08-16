@@ -10,6 +10,7 @@ It records keystrokes and saves them to a local file `key_log.txt`.
 Never run it on a device without the owner’s consent.
 
 ## 🚀 How to Run
-```bash
+
 pip install pynput
 python3 keylogger.py
+You can also run the c++ code that I have written it. 
