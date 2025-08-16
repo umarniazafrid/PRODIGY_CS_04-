@@ -1,4 +1,4 @@
-# PRODIGY_CS_04 - Simple Keylogger (Python)
+# PRODIGY_CS_04 - Simple Keylogger (Python, C++)
 
 This is Task 04 of my **Cyber Security Internship** with **Prodigy InfoTech**.
 
